@@ -10,7 +10,7 @@ h1 {
   font-family: 'Quicksand', sans-serif;
   color:#ffffff;
   text-align: center;
-  margin: 30px;
+  margin: 40px;
   padding:40px;
 }
 
@@ -19,7 +19,8 @@ h3 {
   font-family: 'Quicksand', sans-serif;
   color:#ffffff;
   text-align:center;
-  margin-block:3px;
+  /* margin-block:3px; */
+  margin: 64px 0 8px 0;
 }
 
 
